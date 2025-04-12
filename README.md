@@ -2,8 +2,6 @@
 
 I punish keycaps for a living.
 
-- nvim btw
-- arch btw
-- tiling wm btw
+nvim + arch btw
 
 wtf is grass anyways
